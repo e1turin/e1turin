@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## My knowlege base - [wiki-school-database.herokuapp.com](https://wiki-school-database.herokuapp.com/ru/home) - it takes a minute to reload a heroku container
+## My knowlege base - [wiki-school-database.herokuapp.com](https://wiki-school-database.herokuapp.com/ru/home)
+it takes a minute to reload a heroku container
+
 <!--
 **e1turin/e1turin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
